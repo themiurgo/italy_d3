@@ -1,0 +1,6 @@
+[config]
+name = Italy
+path = Italy
+guiname = Italy
+author = themiurgo & thetarro
+description = COPY HERE CIA FACTBOOK
