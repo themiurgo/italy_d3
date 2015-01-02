@@ -1,0 +1,1 @@
+CreateGrudge(Italia,_hidden_,ClassWarfare,-0.18,1,0);

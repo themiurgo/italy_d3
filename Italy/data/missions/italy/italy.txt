@@ -1,5 +1,5 @@
 [config]
-currency = ¿ 
+currency = "€"
 population = 30011
 economic_cycle_start = 0.30
 min_income = 6000

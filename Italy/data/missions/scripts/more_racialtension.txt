@@ -1,0 +1,1 @@
+CreateGrudge(Italian Demography,Italia,RacialTension,0.06,1,0);
