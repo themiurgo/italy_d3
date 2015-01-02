@@ -22,7 +22,8 @@ All you need is to look for “Democracy 3” folder.
 Credits
 =======
 
-Umperio, author of the Italia mod upon which this mod is based.
+- Umperio, author of the Italia mod upon which this mod is based.
+- Description was taken from the CIA World Factbook, which [is in the Public Domain](https://www.cia.gov/library/publications/the-world-factbook/docs/contributor_copyright.html).
 
 Collaborate
 ===========
