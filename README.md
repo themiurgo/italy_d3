@@ -1,14 +1,12 @@
-============
-    INFO
-============
+Italy - Democracy 3
+===================
 
 ITALY - Democracy 3 mod by themiurgo & thetarro
 
 Available on Steam Workshop
 LINK - ????
 
-============
-INSTALLATION
+Installation
 ============
 
 Copy the included files in
@@ -21,8 +19,12 @@ WINDOWS:
 I don’t use Windows, but it should be the same as Mac.
 All you need is to look for “Democracy 3” folder.
 
-============
-  CREDITS
-============
+Credits
+=======
 
 Umperio, author of the Italia mod upon which this mod is based.
+
+Collaboratate
+=============
+
+If you have suggestions or comments feel free to open an issue.
