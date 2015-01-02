@@ -24,7 +24,7 @@ Credits
 
 Umperio, author of the Italia mod upon which this mod is based.
 
-Collaboratate
-=============
+Collaborate
+===========
 
 If you have suggestions or comments feel free to open an issue.
